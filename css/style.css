@@ -30,3 +30,12 @@
     border-radius: 20px;
 }
 
+.width_200px{
+    width: 200px;
+}
+
+.object_top{
+    object-position: top;
+}
+
+
