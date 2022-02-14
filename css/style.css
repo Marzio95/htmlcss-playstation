@@ -12,8 +12,20 @@
     background-position: center;
 }
 
+
+.background_img2{
+    background-image: url(../img/it-takes-two-hero-banner-desktop.jpg);
+    background-size: cover;
+    background-position: center;
+}
+
 .container_height{
     height: 500px;
+}
+
+
+.container_height2{
+    height: 600px;
 }
 
 .height_100{
