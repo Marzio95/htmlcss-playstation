@@ -2,8 +2,12 @@
     width: 10rem;
 }
 
+.returnal_logo{
+    width: 250px;
+}
+
 .background_img{
-    background-image: url(../img/returnal-listing-thumb-01-ps5.jpg);
+    background-image: url(../img/jumbo-bg.png);
     background-size: cover;
     background-position: center;
 }
@@ -15,3 +19,14 @@
 .height_100{
     height: 100%;
 }
+
+.cover_img{
+    object-fit: contain;
+    height: 100%;
+    width: 100%;
+}
+
+.radius_20px{
+    border-radius: 20px;
+}
+
