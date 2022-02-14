@@ -1,3 +1,17 @@
 .logo_sony{
-    width: 10%;
+    width: 10rem;
+}
+
+.background_img{
+    background-image: url(../img/returnal-listing-thumb-01-ps5.jpg);
+    background-size: cover;
+    background-position: center;
+}
+
+.container_height{
+    height: 500px;
+}
+
+.height_100{
+    height: 100%;
 }
