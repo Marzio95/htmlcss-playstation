@@ -1,3 +1,7 @@
+.black_bar{
+    padding: 0!important;
+}
+
 .logo_sony{
     width: 10rem;
 }
@@ -52,6 +56,11 @@
 
 .opacity_img{
     opacity: 0.8;
+}
+
+.padding_img{
+    padding: 0!important;
+    padding-top: 0.5rem!important;
 }
 
 
