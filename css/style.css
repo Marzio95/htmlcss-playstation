@@ -87,3 +87,35 @@
     color: #4b79e3!important;
 }
 
+.background_footer{
+    background-color: #00439c;
+  
+}
+
+.logo_footer{
+    width: 7rem;
+}
+
+
+.logo_footer2{
+    width: 2rem;
+}
+
+.link{
+    text-decoration: none;
+    color: white;
+}
+
+
+.link2{
+    color: white;
+}
+
+.link_footer:hover{
+    color: white;
+}
+
+.ul_footer{
+    list-style: none;
+}
+
