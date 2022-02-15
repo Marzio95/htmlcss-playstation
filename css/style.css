@@ -47,6 +47,13 @@
     width: 100%;
 }
 
+
+.cover_img2{
+    
+    height: 100%;
+    width: 100%;
+}
+
 .radius_20px{
     border-radius: 20px;
 }
@@ -68,4 +75,15 @@
     padding-top: 0.5rem!important;
 }
 
+.bg_blue{
+    background-color: #161c3b;
+}
+
+.bg_secondary{
+    background-color: #bebcbb;
+}
+
+.color_btn{
+    color: #4b79e3!important;
+}
 
