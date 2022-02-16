@@ -133,8 +133,8 @@
 .ul_footer{
     list-style: none;
 }
-
-/* EFFETTI HOVER */
+ 
+ EFFETTI HOVER
 
 .hover_outline:hover{
     box-shadow: 0 0 0 3px black!important;
@@ -150,11 +150,11 @@
     color: #fff;
     background-color: #dc3545!important; 
     border-color: #dc3545!important;
-}
+ }
 
 .translate_15:hover{
     transform: translateY(-10px);
-    box-shadow: 0 0 0 5px #0dcaf0;
+    box-shadow: 0 0 0 6px #0dcaf0;
     outline: 2px solid white;
 }
 
@@ -165,4 +165,4 @@
 
 .opacity_img:active{
     box-shadow: 0 0 20px 5px gray;
-}
+} 
