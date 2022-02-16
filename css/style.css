@@ -218,7 +218,6 @@
 .list_nav_my{
     display: flex;
     justify-content: center;
-    flex-wrap: wrap;
     list-style-type: disc;
     color: #0070d1;
 }
