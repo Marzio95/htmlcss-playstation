@@ -58,7 +58,6 @@
 
 .cover_img3{
     object-fit: contain;
-    
     width: 100%;
 }
 
@@ -133,6 +132,8 @@
 .ul_footer{
     list-style: none;
 }
+
+
  
  /* EFFETTI HOVER */
 
@@ -195,4 +196,19 @@
 
 .cursor_pointer:hover{
     cursor: pointer;
+}
+
+.dropdown-toggle::after{
+    display: inline-block;
+    margin-left: 0.255em;
+    vertical-align: 0.255em;
+    content: "";
+    border-bottom: 0.3em solid;
+    border-right: 0.3em solid transparent;
+    border-top: 0;
+    border-left: 0.3em solid transparent;
+}
+
+.show::after{
+    transform: rotate(180deg);
 }
