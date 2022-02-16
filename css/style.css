@@ -168,11 +168,20 @@
      outline: 3px solid #161c3b;
      box-shadow: 0 0 0 4px white;
  }
+
+ .hover_plus:hover{
+     outline: 3px solid #bebcbb;
+     box-shadow: 0 0 0 4px white;
+ }
  
 .translate_15:hover{
     transform: translateY(-10px);
     box-shadow: 0 0 0 6px #0dcaf0;
     outline: 2px solid white;
+}
+
+.border_trasparent{
+    border-bottom: 2px solid transparent;
 }
 
 .opacity_img:hover{
@@ -183,3 +192,7 @@
 .opacity_img:active{
     box-shadow: 0 0 20px 5px gray;
 } 
+
+.cursor_pointer:hover{
+    cursor: pointer;
+}
