@@ -223,5 +223,9 @@
 }
 
 .li_margin_right_2rem{
-    margin-right: 1.2rem;
+    margin-right: 2rem;
+}
+
+.li_margin_right_2rem .dropdown-item{
+    padding: 0.25rem 0.1rem;
 }
