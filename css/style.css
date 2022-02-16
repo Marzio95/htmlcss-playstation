@@ -134,3 +134,24 @@
     list-style: none;
 }
 
+/* EFFETTI HOVER */
+
+.hover_outline:hover{
+    box-shadow: 0 0 0 3px black!important;
+    outline: auto;
+}
+
+.hover_outline2:hover{
+    outline: 3px solid black;
+    box-shadow: 0 0 0 4px #dc3545!important;
+}
+
+.btn-danger:hover {
+    color: #fff;
+    background-color: #dc3545!important; 
+    border-color: #dc3545!important;
+}
+
+.translate_15:hover{
+    transform: translateY(-10px);
+}
